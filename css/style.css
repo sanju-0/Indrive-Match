@@ -392,8 +392,8 @@ body {
   align-items: center;
   justify-content: center;
   padding: 10px 20px;
-  background-color: #4CAF50;
-  color: #fff;
+  background-color: #f7ed37;
+  color: #1c1c1c;
   border: none;
   cursor: pointer;
   font-size: 18px;
@@ -430,8 +430,8 @@ input[type="number"] {
 
 button[type="submit"] {
   padding: 10px 20px;
-  background-color: #4CAF50;
-  color: #fff;
+  background-color: #fbfe38;
+  color: #222222;
   border: none;
   cursor: pointer;
   border-radius: 50px; /* Added border-radius for oval shape */
